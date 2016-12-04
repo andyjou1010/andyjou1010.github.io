@@ -101,7 +101,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image: url("img/neb4.jpg");
+    background-image: url("img/sky2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;  /* Kinda like Prallax */
     background-size: 100% 100%;
@@ -247,7 +247,7 @@ section h2 {
 #education{
     /*color: #2c3e50;
     background: #fffae6;*/
-    background-image: url("img/ubc_aerial_edit.jpg");
+    background-image: url("img/sfu2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
